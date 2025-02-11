@@ -24,7 +24,7 @@ int main() {
       };
     }
     if(!gpio_get(BTN_PIN_E)){
-      printf("Botão 2\n");
+      printf("Botao 2\n");
       while(!gpio_get(BTN_PIN_E)){
 
       };
