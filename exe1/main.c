@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 const int LED_PIN_R = 5;
-const int LED_PIN_Y = 5;
+const int LED_PIN_Y = 6;
 int main() {
   stdio_init_all();
 
